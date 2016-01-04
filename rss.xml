@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[5guys]]></title>
         <description><![CDATA[5guys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/5guys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 13:52:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 13:52:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/5guys/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The first meeting]]></title>
             <description><![CDATA[<article><h1>The first meeting</h1><p>The 5 guys met and concluded they're awesome!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1317a7ff2eb3e72b79d579e274411f5ab7549d15.jpg"></article>]]></description>
-            <link>undefinedthe-first-meeting/index.html</link>
+            <link>https://thegrid.ai/5guys/the-first-meeting/index.html</link>
             <guid isPermaLink="false">dc6d61c1-091d-429d-9607-f5ab0e6b5e3e</guid>
-            <pubDate>Mon, 04 Jan 2016 13:52:11 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 13:52:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

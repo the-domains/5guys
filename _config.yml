@@ -1,0 +1,28 @@
+name: 5guys
+favicon: null
+layout_spectrum: 0.9623913860414177
+typography_spectrum: 0.9691345782484859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.207679552026093
+  lightness: 0.06285877502523363
+  saturation: 0.533364008879289
+  rhythmicContrast: 0.026471156626939774
+purpose: []

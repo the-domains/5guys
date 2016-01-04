@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T13:52:16.174Z'
-dateModified: '2016-01-04T13:52:11.879Z'
+datePublished: '2016-01-04T13:52:22.022Z'
+dateModified: '2016-01-04T13:52:16.174Z'
 title: The first meeting
 author: []
 authors: []
